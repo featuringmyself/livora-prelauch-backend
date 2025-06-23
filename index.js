@@ -20,7 +20,7 @@ app.get('/', (req, res) => {
     res.send('Welcome to the Leads API');
 });
 
-app.use('/api/leads', leadsRouter);
+app.use('/leads', leadsRouter);
 
 app.listen(process.env.PORT, () => {
     console.log(`Server is running on port ${process.env.PORT}`);
