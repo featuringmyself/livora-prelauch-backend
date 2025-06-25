@@ -11,6 +11,8 @@ import leadsRouter from './routes/lead.route.js';
 
 import cors from 'cors';
 
+console.log("Backend server starting...");
+
 app.use(cors());
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
