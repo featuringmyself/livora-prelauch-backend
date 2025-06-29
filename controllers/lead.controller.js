@@ -82,7 +82,7 @@ const createLead = async (req, res) => {
                             <p style="margin: 0 0 24px; font-size: 18px; color: #1f2937; font-weight: 500;">Hi there,</p>
                             
                             <p style="margin: 0 0 32px; font-size: 16px; color: #374151; line-height: 1.6;">
-                                Thank you for joining our early access program. You're now part of a select group who will be first to experience India's most advanced AI-powered nutrition platform by <strong style="color: #10b981;">Xerocal</strong>.
+                                Thank you for joining our early access program. You're now part of a select group who will be first to experience India's most advanced AI-powered nutrition platform by <strong style="color: #10b981;">Livora</strong>.
                             </p>
                             
                             <!-- What's Next Section -->
